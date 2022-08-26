@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xt0000
 - 👀 I’m interested in information security, blockchain security & privacy and Machile Learning (Adversarial Learning)
-- 🌱 I’m currently learning about the various blockchain implementations
-- 💞️ I’m looking to collaborate on various projects of interest
+- 🌱 I’m currently researching about secure consensus protocols in blockchain
+- 💞️ I welcome proposals for collaboration
 - 📫 2517482859@qq.com
 
 <!---

@@ -1,5 +1,3 @@
-# ArsanVK Repository
-
 Welcome to my GitHub repository dedicated to decentralized cloud computing research. My name is Arthur Sandor, and I am a researcher in applied cryptography, blockchain technology, and machine learning. The purpose of this repository is to share knowledge and ideas with the community to advance our understanding of decentralized cloud computing.
 
 ## About Me

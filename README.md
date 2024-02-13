@@ -1,4 +1,4 @@
-Welcome to my GitHub repository dedicated to the research on the blockchain technology applied to cloud storage. My name is Arthur Sandor, and I am a researcher in applied cryptography, blockchain technology, and machine learning. The purpose of this repository is to share knowledge and ideas with the community to advance our understanding of secure and privacy-preserving blockain-enabled cloud computing.
+Welcome to my GitHub repository dedicated to the research on the blockchain technology applied to cloud storage. My name is Arthur Sandor, and I am a researcher in applied cryptography, blockchain technology, and machine learning. The purpose of this repository is to share knowledge and ideas with the community to advance our understanding of secure and privacy-preserving blockchain-enabled cloud computing.
 
 ## About Me
 
